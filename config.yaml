@@ -2,13 +2,13 @@ title: "You are interesting"
 baseURL: "https://youareinteresting.org"
 languageCode: "en-US"
 theme: "github.com/kdevo/osprey-delight/v5"
-tags: ["personal", "homepage", "portfolio"]
+tags: ["personal", "social experience", "portfolio", "performance art", "you are interesting"]
 #canonifyURLS: true
-#googleAnalytics: ""
+googleAnalytics: "G-04LQ9QKKF7"
 disableKinds: ["taxonomy", "taxonomyTerm"]
 enableEmoji: true
 pygmentsUseClasses: true
-
+contentDir: 'content/en'
 module:
   imports:
   - path: github.com/kdevo/osprey-delight/v5
@@ -18,24 +18,24 @@ module:
 
 ## Generic theme parameters:
 Params:
-  author: "kdevo"
-  description: "Osprey Delight: Example Site"
+  author: "Headphone James"
+  description: "You are interesting."
 
   # logoBig appears at the top of the page. Use a path relative to the assets dir for auto-resizing. 
-  logoBig: "gr-oss-logo.png"
+  logoBig: "YAI-logo-color.png"
 
   # logoSmall is the logo that will be shown in the left corner of the nav bar.
   #   Use a path relative to the assets dir for auto-resizing.
-  logoSmall: "gr-oss-logo.png"
+  logoSmall: "YAI-logo-color.png"
   
   # background can optionally be specified as an image layer behind logoBig at the top of the page (parallax effect).
   #background: "background.jpg"
   
   # opengraphImage specifies the image that is shown when previewing the site in a messenger or Google Search.
-  opengraphImage: "gr-oss-logo.png"
+  opengraphImage: "YAI-logo-color.png"
 
   # favicon of the site (e.g. smaller version of logoSmall).
-  favicon: "gr-oss-logo.png"
+  favicon: "YAI-logo-color.png"
 
   # theme your site by choosing one of the themes under assets/sass/themes:
   #   - delight is the light version of osprey-delight
@@ -47,7 +47,7 @@ Params:
   #tagline: "Welcome!"
   # mdTagline can be used instead to specify the tagline in Markdown for more customizability.
   #   Note that {cursor} is a placeholder and will be replaced by the actual cursor HTML when rendering.
-  mdTagline: "# Welcome!\n ## This is Osprey Delight{cursor}"
+  mdTagline: "# An experiment in fun and connection\n ## Burning Man meets Tech Conference{cursor}"
 
   # enforceSinglePage will enforce redirection to the baseURL for all sub-directories/-pages.
   #   Example: If you create about.md, Hugo will also create a '/about/index.html' which might not be what you want for a *single* page site. 
@@ -55,7 +55,7 @@ Params:
   enforceSinglePage: false
 
   # copyright flag generates a copyright notice in footer of your site.
-  copyright: true
+  copyright: false
 
   # credit to the theme. If you want to support the theme by please leave this in, it's kept very tiny and short.
   # credit: true
@@ -64,16 +64,20 @@ Params:
 ##   The type specifies the icon to use. For more information, see: 
 ##   https://github.com/kdevo/osprey-delight/blob/dev/CUSTOMIZING.md#icons
   Social:
-  - type: twitter # references the icon to use
-    url: ""
-  - type: linkedin 
-    url: ""
+  - type: facebook # references the icon to use
+    url: "https://facebook.com/headphonejames"
+  - type: linkedin
+    url: "https://www.linkedin.com/in/headphonejames/"
   - type: github
-    url: "https://github.com/hugo-mods/"
-  - type: heart
-    url: "https://github.com/sponsors/kdevo"
+    url: "https://github.com/headphonejames/"
   - type: spotify
-    url: https://open.spotify.com/artist/5NhBOdJh6T1tgtM5Au1Opl
+    url: https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r
+  - type: instagram
+    url: https://www.instagram.com/headphonejames/
+  - type: youtube
+    url: https://www.youtube.com/channel/UCTiKBhNy0zXN9g8tk5O15hQ
+  - type: twitter # references the icon to use
+    url: "https://twitter.com/headphonejames"
 
 ## Additional theme features:
   Feat:
@@ -101,7 +105,7 @@ Params:
   # Image resizing can be configured here (see README for more info):
   Image:
     Logo:
-      resize: "600x"
+      resize: "800x"
 
     Gallery:
       resize: "600x"
@@ -131,25 +135,35 @@ Params:
 ##   See: https://gohugo.io/content-management/menus/#add-content-to-menus
 Menu:
   Main:
-    - name: "About"
+    - name: "What"
       # identifier controls the section type (and therewith the appearence).
-      identifier: about 
+      identifier: what
       # url must be an anchor, for smooth scrolling to it when clicking on the menu item.
-      url: "/#about"
+      url: "/#what"
       # weight controls the order of the menu items.
       weight: 1
-    - name: "Work"
-      identifier: gallery
-      url: "/#work"
+    - name: "Why"
+      identifier: why
+      url: "/#why"
       weight: 2
-    - name: "Blog"
-      identifier: blog
-      url: "/#blog"
+    - name: "Where"
+      identifier: where
+      url: "/#where"
       weight: 3
-    - name: "Contact"
-      identifier: contact
-      url: "/#contact"
+    - name: "How"
+      identifier: how
+      url: "/#how"
       weight: 4
+    - name: "Who"
+      identifier: gallery
+      url: "/#who"
+      weight: 5
+    - name: "Results"
+      identifier: results
+      url: "/#resulsts"
+      weight: 6
+
+
     # - name: ""
     #   # pre makes it possible to use arbitrary HTML before the name, e.g. referencing icons here is possible:
     #   pre: '<svg class="icon"><use xlink:href="#icon-external"/></svg>&nbsp;'
