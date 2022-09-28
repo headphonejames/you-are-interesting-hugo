@@ -37,7 +37,8 @@
     </a>
   </div>
     {{ range .Site.Menus.main }}
-      <div class="col-xs-3 col-sm-2 nav-item">
+
+    <div class="col-xs-3 col-sm-2 nav-item">
         <h3><a href="{{ .URL }}">{{ .Pre }}{{ .Name }}</a></h3>
       </div>
     {{ end }}
