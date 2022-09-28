@@ -1,5 +1,5 @@
 ---
-title: "What"
+title: "What is happening?"
 date: "2022-09-28T08:01:09-07:00"
 draft: false
 description: "What is this about"
