@@ -12,10 +12,10 @@ contentDir: 'content/en'
 module:
   imports:
   - path: github.com/kdevo/osprey-delight/v5
+  - path: github.com/hugo-mods/icons
   # useful for local development of the theme:
   # replacements:
   # - github.com/kdevo/osprey-delight/v5 -> ../../.
-
 ## Generic theme parameters:
 Params:
   author: "Headphone James"
@@ -47,7 +47,7 @@ Params:
   #tagline: "Welcome!"
   # mdTagline can be used instead to specify the tagline in Markdown for more customizability.
   #   Note that {cursor} is a placeholder and will be replaced by the actual cursor HTML when rendering.
-  mdTagline: "# An experiment in fun and connection\n ## Burning Man meets Tech Conference{cursor}"
+  mdTagline: "# An experiment in fun and connection\n ## Burning Man meets Tech Conference?{cursor}"
 
   # enforceSinglePage will enforce redirection to the baseURL for all sub-directories/-pages.
   #   Example: If you create about.md, Hugo will also create a '/about/index.html' which might not be what you want for a *single* page site. 
@@ -64,20 +64,18 @@ Params:
 ##   The type specifies the icon to use. For more information, see: 
 ##   https://github.com/kdevo/osprey-delight/blob/dev/CUSTOMIZING.md#icons
   Social:
-  - type: facebook # references the icon to use
-    url: "https://facebook.com/headphonejames"
-  - type: linkedin
-    url: "https://www.linkedin.com/in/headphonejames/"
   - type: github
     url: "https://github.com/headphonejames/"
+  - type: linkedin
+    url: "https://www.linkedin.com/in/headphonejames/"
   - type: spotify
     url: https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r
   - type: instagram
     url: https://www.instagram.com/headphonejames/
   - type: youtube
     url: https://www.youtube.com/channel/UCTiKBhNy0zXN9g8tk5O15hQ
-  - type: twitter # references the icon to use
-    url: "https://twitter.com/headphonejames"
+  - type: facebook # references the icon to use
+    url: "https://facebook.com/headphonejames"
 
 ## Additional theme features:
   Feat:
@@ -135,9 +133,9 @@ Params:
 ##   See: https://gohugo.io/content-management/menus/#add-content-to-menus
 Menu:
   Main:
-    - name: "What"
+    - name: "What & Who"
       # identifier controls the section type (and therewith the appearence).
-      identifier: what
+      identifier: what-and-who
       # url must be an anchor, for smooth scrolling to it when clicking on the menu item.
       url: "/#what"
       # weight controls the order of the menu items.
@@ -146,22 +144,14 @@ Menu:
       identifier: why
       url: "/#why"
       weight: 2
-    - name: "Where"
-      identifier: where
-      url: "/#where"
-      weight: 3
     - name: "How"
       identifier: how
       url: "/#how"
-      weight: 4
-    - name: "Who"
-      identifier: gallery
-      url: "/#who"
-      weight: 5
-    - name: "Results"
+      weight: 3
+    - name: "Impact"
       identifier: results
-      url: "/#resulsts"
-      weight: 6
+      url: "/#impact"
+      weight: 4
 
 
     # - name: ""
