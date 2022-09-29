@@ -149,7 +149,7 @@ Menu:
       identifier: how
       url: "/#how"
       weight: 3
-    - name: "Impact"
+    - name: "Then What"
       identifier: results
       url: "/#impact"
       weight: 4

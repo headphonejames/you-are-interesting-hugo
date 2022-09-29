@@ -1,0 +1,22 @@
+.container a {
+  color: #001c80;
+}
+
+.container {
+  max-width: 63.75rem !important;
+}
+
+.dark-mode {
+  background: rgb(219, 219, 219);
+  background: linear-gradient(0deg, rgb(227, 227, 227) 0%, rgb(243, 243, 243) 100%, rgba(255,255,255,1) 100%);
+}
+
+@media (max-width: $mobile-breakpoint) {
+  .bg {
+    background-attachment: scroll;
+  }
+}
+
+.home-logo { 
+  animation: scale-in-center .8s cubic-bezier(.25, .46, .45, .94) both;
+}
