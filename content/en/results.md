@@ -12,4 +12,4 @@ description: "What is this about"
 
 ### *Pics & Video to come shortly*
 
-Many thanks to: **Stina**, Alex S, Dave G, Caterina, Tim, Marcel, Alex Haislip, Dave SG, Erin C, Jonathan G, and Tabatha.
+_Many thanks to: [**Stina**](https://www.linkedin.com/in/cristinarudden2021/), [Alex S](https://www.linkedin.com/in/alexscammon), [Dave G](https://www.linkedin.com/in/davegantenbein), [Caterina](https://www.linkedin.com/in/crindi), Tim, Marcel, [Alex Haislip](https://www.linkedin.com/in/alexanderhaislip), [Dave SG](https://www.linkedin.com/in/davidsterngottfried), [Erin C](https://www.linkedin.com/in/erin-crowley-psychotherapist-and-school-counselor-a47bb31a/), [Jonathan G](https://www.linkedin.com/in/jonathan-giannuzzi/), [Tabatha](https://www.linkedin.com/in/tabathad/), [Jason H](https://www.linkedin.com/in/jasonhaber/), and the entire [GR-OSS](https://www.gresearchoss.io) team._
