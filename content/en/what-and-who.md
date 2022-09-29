@@ -10,8 +10,6 @@ For example: "Tell me what you are proud of right now."
 
 This is an experiment in trying to foster a fleeting but meaningful connection in a space that sometimes feels devoid of it. Ideally, we will create a safe, simple format to briefly engage and learn something about each other.
 
-The "no tech talk" rule is in place to increase odds of connection. 
-
 # Who am I?
 
 ![headphone james](img/headphone-phone-call.jpg) 
