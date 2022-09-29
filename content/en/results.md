@@ -11,3 +11,5 @@ description: "What is this about"
 *To be revealed after [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)*
 
 ### *Pics & Video to come shortly*
+
+Many thanks to: **Stina**, Alex S, Dave G, Caterina, Tim, Marcel, Alex Haislip, Dave SG, Erin C, Jonathan G, and Tabatha.
