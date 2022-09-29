@@ -4,17 +4,18 @@ date: "2022-09-28T08:01:09-07:00"
 draft: false
 description: "The story of this idea"
 ---
-It was a very simple idea first that seemed like low hanging fruit with great potential. It would scratch my itch for fun and connection. 
+It begas as a very simple idea first that seemed like low hanging fruit with great potential. An experiment that might scratch my itch for fun and connection at a tech conference. 
 
-I proceeded to workshop this idea with a lot of people. First and foremost, I collaborated with my wife, who helped give this idea concrete shape. 
+I proceeded to workshop this idea with a lot of people. First and foremost, I collaborated with my wife, who helped give this idea concrete shape. The great ideas from many friends and co-workers added depth and created a ton more work. 
 
 After many additional conversations, it became clear that:
  
- * I needed to collect metrics. To do that, I would need to (build an app)[app] to track those metrics. 
+ * I needed to collect metrics. To do that, I would need to [build an app](https://github.com/headphonejames/you-are-interesting) to track those metrics. I landed on [streamlit](https://streamlit.io/) as my tech stack to  quickly build an app for data collection and persistence.
  * I needed a logo. 
  * I needed a branded tee shirt.
- * I needed messaging.  
- * I needed a number of great prompts, with space for other people ideas. 
- * I needed other people to staff this idea with me, so I needed to enroll people.
+ * I needed messaging to enroll people.  
+ * I needed a website (you are here).
+ * I needed a number of great prompts, with room for ideas from other people. 
+ * I needed people to staff this idea with me.
 
-Finally, I needed to madly execute on all this in a very breif window of time. This had to come together within a month and a half. I needed to beta test it before KubeCon. Deadlines were very real.
+Finally, I needed to madly execute on all this in a very breif window of time. This had to come together within a month and a half. 
