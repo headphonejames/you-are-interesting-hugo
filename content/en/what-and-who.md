@@ -14,7 +14,7 @@ This is an experiment in trying to foster a fleeting but meaningful connection i
 
 ![headphone james](img/headphone-phone-call.jpg) 
  
- ![headphone james](img/headphone-flowers-3.jpg)
+ ![headphone james](img/headphone-flowers.jpg)
 
 My name is {{< icon "headphones" >}} [James Kirsch](https://headphonejames.com/). I'm a professional open source developer at [G-Research Open Source Systems](https://gresearchoss.io/). 
 
