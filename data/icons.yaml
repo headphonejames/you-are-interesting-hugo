@@ -12,3 +12,16 @@ rocket: fas rocket
 # Overriding the default icons is just as easy! 
 # This will switch the gallery modals close button to a circled close icon, comment it out to see the difference:
 close: fas times-circle
+contact: fas user-astronaut
+heart:
+  id: fas heart
+  description: Donate
+get:
+  id: fas chevron-right
+  description: Go get it
+example:
+  id: fas eye
+  description: View preview
+learn:
+  id: fas graduation-cap
+  description: Learn more

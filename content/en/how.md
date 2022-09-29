@@ -10,7 +10,7 @@ I proceeded to workshop this idea with a lot of people. First and foremost, I co
 
 After many additional conversations, it became clear that:
  
- * I needed to collect metrics. I would need to build an ap to track those metrics. 
+ * I needed to collect metrics. To do that, I would need to (build an app)[app] to track those metrics. 
  * I needed a logo. 
  * I needed a branded tee shirt.
  * I needed messaging.  
