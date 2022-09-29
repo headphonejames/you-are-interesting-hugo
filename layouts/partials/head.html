@@ -104,9 +104,20 @@
     <!-- End Google Tag Manager -->
   {{ end }}
 
-  {{ if .Site.GoogleAnalytics }}
+  <!--
+    {{ if .Site.GoogleAnalytics }}
     {{ template "_internal/google_analytics_async.html" . }}
   {{ end }}
+  -->
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.GoogleAnalyticsID }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '{{ .Site.Params.GoogleAnalyticsID }}');
+  </script>
   {{ partial "head-extended.html" . }}
 </head>

@@ -4,7 +4,7 @@ languageCode: "en-US"
 theme: ["github.com/kdevo/osprey-delight/v5"]
 tags: ["personal", "social experience", "portfolio", "performance art", "you are interesting"]
 #canonifyURLS: true
-googleAnalytics: "G-04LQ9QKKF7"
+googleAnalytics: true
 disableKinds: ["taxonomy", "taxonomyTerm"]
 enableEmoji: true
 pygmentsUseClasses: true
@@ -21,6 +21,7 @@ module:
 Params:
   author: "Headphone James"
   description: "You are interesting."
+  GoogleAnalyticsID: "G-04LQ9QKKF7"
 
   # logoBig appears at the top of the page. Use a path relative to the assets dir for auto-resizing. 
   logoBig: "YAI-logo-color.png"
@@ -95,7 +96,7 @@ Params:
     #   The library has been stripped-down to a minimum to only have the necessary functionality.
     useTermynal: true
 
-    googleTagManager: ""
+    googleTagManager: "G-04LQ9QKKF7"
 
     # notifyOnNewThemeVersion enables a notification for every new minor/major version of this theme.
     #   Whenever there is a new one, a warning is printed to console.
