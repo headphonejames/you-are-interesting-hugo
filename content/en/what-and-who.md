@@ -24,7 +24,7 @@ I have [extremely sensitive hearing](https://en.wikipedia.org/wiki/Hyperacusis),
 
 I build [software](https://github.com/headphonejames), make [all sorts](https://www.generalfuzz.net) [of music](https://www.youtube.com/channel/UCTiKBhNy0zXN9g8tk5O15hQ.), and participate in several Men's Groups in the Bay Area. 
 
-I recenetly determined my purpose in life is fun and connection. I and am generally up for fun, as long as its not loud fun. {{< icon "guitar" >}}
+I recenetly determined my purpose in life is _fun and connection_. I am generally up for fun, as long as its not loud fun. {{< icon "guitar" >}}
 
 # Where is this going down?
 The first iteration of this experiment is taking place at [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/). I will setup my booth near the [G-Research Open Source Systems](https://gresearchoss.io/) table in the exhibition hall during random hours of the day.

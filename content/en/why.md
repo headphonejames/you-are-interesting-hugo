@@ -7,12 +7,10 @@ description: "Why am I doing this"
 ---
 I made this happen because [I work for a company](http://www.gresearchoss.io) that values passion and creativity, and they said I could go for it. Ultimately, I did this because I really wanted to, and felt highly supported in the process. I work with great people from all over the world who do freaking cool things in open source.
 
-A few months ago, I determined that my purpose in life is fun and connection. This seemed like a great opportunity to deeply explore that. So I came to play.
-
 I'm hopeful that even something small and simple can make a big difference to somebody's experience. 
 
 ![No tech talk](img/no-tech-talk.jpg)
  
-The truth for me is that talking or learning about Kubernetes feels like the opposite of fun and connection. Having the "no tech talk" rule provides more oportunity for there to be an actual connection between us.
+The truth for me is that talking or learning about Kubernetes feels like the opposite of fun and connection. Having the "no tech talk" rule provides more oportunity for there to be an actual connection between us. It also tickles me in all the right places.
 
-
+My favorite great ideas are simple. One that are fun and make you think, "I could do that." Easy to replicate. My good friend [Jason Haber](https://www.linkedin.com/in/jasonhaber/), inventor of the high five, is an inspiration in this regard. A super well executed simple idea. I wanted to set the bar lower in terms of difficulty to replicate.
