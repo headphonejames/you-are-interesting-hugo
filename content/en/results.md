@@ -4,8 +4,10 @@ date: "2022-09-28T08:01:09-07:00"
 draft: false
 description: "What happened"
 ---
-## [The app](https://github.com/headphonejames/you-are-interesting)
-I landed on [streamlit](https://streamlit.io/) as my tech stack to  quickly build an app for data collection and persistence.
+## [I built an app](https://github.com/headphonejames/you-are-interesting)
+I needed a way to collect metrics. My company {{< icon "heart" >}} data. 
+
+I landed on [streamlit](https://streamlit.io/) as my tech stack to  quickly build an app for data collection and persistence. All data is stored in a google sheet.
 
 ## The data:
 *To be revealed after [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)*
