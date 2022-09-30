@@ -4,6 +4,9 @@ date: "2022-09-28T08:01:09-07:00"
 draft: false
 description: "What is this about"
 ---
+## [The app](https://github.com/headphonejames/you-are-interesting)
+I landed on [streamlit](https://streamlit.io/) as my tech stack to  quickly build an app for data collection and persistence.
+
 ## The data:
 *To be revealed after [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)*
 

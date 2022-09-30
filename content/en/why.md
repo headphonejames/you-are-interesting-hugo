@@ -9,17 +9,10 @@ I made this happen because [I work for a company](http://www.gresearchoss.io) th
 
 A few months ago, I determined that my purpose in life is fun and connection. This seemed like a great opportunity to deeply explore that. So I came to play.
 
-I'm hopeful that even something small and simple can make a big difference to somebody's experience.
-
---
-
-I also work as professional [open source developer](https://github.com/G-Research), so I want to share all the parts of this.
-
+I'm hopeful that even something small and simple can make a big difference to somebody's experience. 
 
 ![No tech talk](img/no-tech-talk.jpg)
  
-
-The truth for me is that talking or learning about Kubernetes feels like the opposite of fun and connection. Having the "no tech talk" provides possibility for there to be an actual connection between me and someone else.
-
+The truth for me is that talking or learning about Kubernetes feels like the opposite of fun and connection. Having the "no tech talk" rule provides more oportunity for there to be an actual connection between us.
 
 

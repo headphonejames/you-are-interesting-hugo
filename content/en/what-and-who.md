@@ -6,9 +6,11 @@ description: "What is this about"
 ---
 It is primarily about human connection. I will provide a choice of prompts for a conversation. We will see where it leads. 
 
-For example: "Tell me what you are proud of right now."
+![example prompt](img/post-it-note-example.jpeg)
 
-This is an experiment in trying to foster a fleeting but meaningful connection in a space that sometimes feels devoid of it. Ideally, we will create a safe, simple format to briefly engage and learn something about each other.
+This is an experiment in trying to foster a fleeting but meaningful connection in a space that sometimes feels devoid of it. 
+
+Ideally, we will create a safe, simple format to briefly engage and connect with each other. Hopefully it will be fun.
 
 # Who am I?
 
