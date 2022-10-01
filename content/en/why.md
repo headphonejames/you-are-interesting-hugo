@@ -11,7 +11,7 @@ I'm hopeful that even something small and simple can make a big difference to so
 
 ![No tech talk](img/no-tech-talk.jpg)
  
-The truth for me is that talking or learning about Kubernetes feels like the opposite of fun and connection. Having the "no tech talk" rule provides more oportunity for there to be an actual connection between us. It also tickles me in all the right places.
+Having a "no tech talk" rule increases the oportunity for a connection to occur between us. It also tickles me in all the right places.
 
 My favorite great ideas are simple. One that are fun and make you think, "I could do that." Easy to replicate. My good friend [Jason Haber](https://www.linkedin.com/in/jasonhaber/), inventor of the [unnecessarily high five](https://www.facebook.com/unnecessarilyhighfive), is an inspiration in this regard.
 
