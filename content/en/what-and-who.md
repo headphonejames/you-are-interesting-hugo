@@ -14,9 +14,7 @@ Ideally, we will create a safe, simple format to briefly engage and connect with
 
 # Who am I?
 
-![headphone james](img/headphone-phone-call.jpg) 
- 
- ![headphone james](img/headphone-flowers.jpg)
+{{< gallery-slider dir="img/headphone-gallery/" width="400px" height="445px" auto-slide="2500">}}
 
 My name is {{< icon "headphones" >}} [James Kirsch](https://headphonejames.com/). I'm a professional open source developer at [G-Research Open Source Systems](https://gresearchoss.io/). 
 
