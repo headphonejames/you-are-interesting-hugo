@@ -5,9 +5,7 @@ draft: false
 description: "Why am I doing this"
 
 ---
-I made this happen because [I work for a company](http://www.gresearchoss.io) that values passion and creativity, and they said I could go for it. Ultimately, I did this because I really wanted to, and felt highly supported in the process. I work with great people from all over the world who do freaking cool things in open source.
-
-I'm hopeful that even something small and simple can make a big difference to somebody's experience. 
+I made this happen because [I work for a company](http://www.gresearchoss.io) that values passion and creativity, and they encouraged me to execute on my idea. I did this because I really wanted to, and felt highly supported in the process. I work with great people from all over the world who do freaking cool things in open source. 
 
 ![No tech talk](img/no-tech-talk.jpg)
  
