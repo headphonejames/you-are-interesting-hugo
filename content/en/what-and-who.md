@@ -8,9 +8,7 @@ It is primarily about human connection. I will provide a choice of prompts for a
 
 ![example prompt](img/post-it-note-example.jpeg)
 
-This is an experiment in trying to foster a fleeting but meaningful connection in a space that sometimes feels devoid of it. 
-
-Ideally, we will create a safe, simple format to briefly engage and connect with each other. Hopefully it will be fun.
+This is an experiment in trying to foster fun little connections at tech conference.
 
 # Who am I?
 
