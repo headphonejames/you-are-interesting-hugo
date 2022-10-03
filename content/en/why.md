@@ -13,6 +13,6 @@ Having a "no tech talk" rule increases the oportunity for a connection to occur 
 
 My favorite great ideas are simple. One that are fun and make you think, "I could do that." Easy to replicate. My good friend [Jason Haber](https://www.linkedin.com/in/jasonhaber/), inventor of the [unnecessarily high five](https://www.facebook.com/unnecessarilyhighfive), is an inspiration in this regard.
 
-{{< othercarousel items="1" height="600" unit="px" duration="3000" >}}
+{{< othercarousel items="1" height="600" unit="px" duration="4000" >}}
 
  
