@@ -4,7 +4,9 @@ date: "2022-09-28T08:01:09-07:00"
 draft: false
 description: "What is this about"
 ---
-It is primarily about human connection. I will provide a choice of prompts for a conversation. We will see where it leads. 
+This is about human connection. I will provide a choice of prompts for conversation. We will see where it leads. 
+
+Here is an example.
 
 ![example prompt](img/post-it-note-example.jpeg)
 
@@ -14,7 +16,7 @@ This is an experiment in trying to foster fun little connections at tech confere
 
 {{< carousel items="1" height="600" unit="px" duration="4000" >}}
 
-My name is {{< icon "headphones" >}} [James Kirsch](https://headphonejames.com/). I'm a professional open source developer at [G-Research Open Source Systems](https://gresearchoss.io/). 
+My name is {{< icon "headphones" >}} [James Kirsch](https://headphonejames.com/). I'm a professional open source developer at [G-Research Open Source Software](https://gresearchoss.io/). 
 
 I have [extremely sensitive hearing](https://en.wikipedia.org/wiki/Hyperacusis), which is why you always see me wearing headphones. 
 
