@@ -25,4 +25,4 @@ I build [software](https://github.com/headphonejames), make [all sorts](https://
 I recenetly determined my purpose in life is _fun and connection_. I am generally up for fun, as long as its not loud fun. {{< icon "guitar" >}}
 
 # Where is this going down?
-The first iteration of this experiment is taking place at [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/). I will setup my booth near the [G-Research Open Source Systems](https://gresearchoss.io/) table in the exhibition hall during random hours of the day.
+The first iteration of this experiment is taking place at [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/). I will setup my booth near the [G-Research Open Source Systems](https://gresearchoss.io/) table in the exhibition hall.
