@@ -12,7 +12,7 @@ This is an experiment in trying to foster fun little connections at tech confere
 
 # Who am I?
 
-{{< gallery-slider dir="img/headphone-gallery/" width="400px" height="445px" auto-slide="2500">}}
+{{< carousel items="1" height="600" unit="px" duration="3000" >}}
 
 My name is {{< icon "headphones" >}} [James Kirsch](https://headphonejames.com/). I'm a professional open source developer at [G-Research Open Source Systems](https://gresearchoss.io/). 
 
