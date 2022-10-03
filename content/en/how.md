@@ -15,7 +15,5 @@ After many additional conversations, it became clear that:
  * I needed messaging to enroll people.  
  * I needed a website (you are here).
  * I needed a number of great prompts, with room for ideas from other people. 
- * I needed people to staff this idea with me.
- * I needed to collect metrics. To do that, I would need to [build an app](https://github.com/headphonejames/you-are-interesting) to track those metrics. 
-
-Finally, I needed to madly execute on all this in a very breif window of time. This had to come together within a month and a half. 
+ * I needed people to staff this experiment with me.
+ * I needed to collect metrics. To do that, I would need to [build an app](https://github.com/headphonejames/you-are-interesting) to track those metrics.
