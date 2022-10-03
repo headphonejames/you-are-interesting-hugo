@@ -137,18 +137,18 @@ Menu:
   Main:
     - name: "What & Who"
       # identifier controls the section type (and therewith the appearence).
-      identifier: what-and-who
+      identifier: what-and-why
       # url must be an anchor, for smooth scrolling to it when clicking on the menu item.
       url: "/#what"
       # weight controls the order of the menu items.
       weight: 1
-    - name: "Why"
-      identifier: why
-      url: "/#why"
-      weight: 2
     - name: "How"
-      identifier: how
+      identifier: why
       url: "/#how"
+      weight: 2
+    - name: "Who"
+      identifier: how
+      url: "/#who"
       weight: 3
     - name: "Then What"
       identifier: results

@@ -4,7 +4,7 @@ date: "2022-09-28T08:01:09-07:00"
 draft: false
 description: "The story of this idea"
 ---
-It begas as a very simple idea first that seemed like low hanging fruit with great potential. An experiment that might scratch my itch for fun and connection at a tech conference. 
+It began as a very simple idea. It seemed like low hanging fruit with great potential. An experiment that might scratch my itch for fun and connection at a tech conference. 
 
 I proceeded to workshop this idea with a lot of people. First and foremost, I collaborated with my wife, who helped give this idea concrete shape. The great ideas from many friends and co-workers added depth and created a ton more work. 
 
