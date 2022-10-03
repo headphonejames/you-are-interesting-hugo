@@ -135,7 +135,7 @@ Params:
 ##   See: https://gohugo.io/content-management/menus/#add-content-to-menus
 Menu:
   Main:
-    - name: "What & Who"
+    - name: "What & Why"
       # identifier controls the section type (and therewith the appearence).
       identifier: what-and-why
       # url must be an anchor, for smooth scrolling to it when clicking on the menu item.
