@@ -7,7 +7,7 @@ description: "What happened"
 ## [I built an app](https://github.com/headphonejames/you-are-interesting)
 I needed a way to collect metrics. My company {{< icon "heart" >}} data. 
 
-I landed on [streamlit](https://streamlit.io/) as my tech stack to  quickly build an app for data collection and persistence. All data is stored in a google sheet.
+I landed on [Streamlit](https://streamlit.io/) as my tech stack to quickly build an app for data collection and persistence. All data is stored in a Google sheet.
 
 ## The data:
 *To be revealed after [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)*
