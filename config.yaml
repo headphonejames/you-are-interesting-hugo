@@ -68,16 +68,16 @@ Params:
   Social:
   - type: github
     url: "https://github.com/headphonejames/you-are-interesting"
+  - type: facebook # references the icon to use
+    url: "https://www.facebook.com/profile.php?id=100086582047332"
+  - type: instagram
+    url: https://instagram.com/you.areinteresting
   - type: linkedin
     url: "https://www.linkedin.com/in/headphonejames/"
   - type: spotify
     url: https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r
-  - type: instagram
-    url: https://www.instagram.com/headphonejames/
   - type: youtube
     url: https://www.youtube.com/channel/UCTiKBhNy0zXN9g8tk5O15hQ
-  - type: facebook # references the icon to use
-    url: "https://facebook.com/headphonejames"
 
 ## Additional theme features:
   Feat:
