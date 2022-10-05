@@ -69,7 +69,7 @@ Params:
   - type: github
     url: "https://github.com/headphonejames/you-are-interesting"
   - type: facebook # references the icon to use
-    url: "https://www.facebook.com/profile.php?id=100086582047332"
+    url: "https://www.facebook.com/youareinteresting"
   - type: instagram
     url: https://instagram.com/you.areinteresting
   - type: linkedin
