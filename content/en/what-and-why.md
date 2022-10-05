@@ -13,7 +13,7 @@ Here is an example:
 This is an experiment in trying to foster fun little conversations at a tech conference – something small and simple can have a positive and meaningful impact.
 
 # Where is this going down?
-The first iteration of this experiment is taking place at [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/). I will setup my booth near the [G-Research Open Source Software](https://gresearchoss.io/) table in the exhibition hall.
+The first iteration of this experiment is taking place at [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/).
 
 # Why is this happening?
 
