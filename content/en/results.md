@@ -4,7 +4,7 @@ date: "2022-09-28T08:01:09-07:00"
 draft: false
 description: "What happened"
 ---
-## [I built an app](https://github.com/headphonejames/you-are-interesting)
+## [I built an app](https://github.com/headphonejames/you-are-interesting-streamlit)
 I needed a way to collect metrics. My company {{< icon "heart" >}} data. 
 
 I landed on [Streamlit](https://streamlit.io/) as my tech stack to quickly build an app for data collection and persistence. All data is stored in a Google sheet.

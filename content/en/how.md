@@ -16,4 +16,4 @@ After many additional conversations, it became clear that:
  * I needed a website (you are here).
  * I needed a number of great prompts, with room for ideas from other people. 
  * I needed people to staff this experiment with me.
- * I needed to collect metrics. To do that, I would need to [build an app](https://github.com/headphonejames/you-are-interesting) to track those metrics.
+ * I needed to collect metrics. To do that, I would need to [build an app](https://github.com/headphonejames/you-are-interesting-streamlit) to track those metrics.

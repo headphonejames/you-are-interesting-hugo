@@ -67,7 +67,7 @@ Params:
 ##   https://github.com/kdevo/osprey-delight/blob/dev/CUSTOMIZING.md#icons
   Social:
   - type: github
-    url: "https://github.com/headphonejames/you-are-interesting"
+    url: "https://github.com/headphonejames/you-are-interesting-streamlit"
   - type: facebook # references the icon to use
     url: "https://www.facebook.com/youareinteresting"
   - type: instagram
