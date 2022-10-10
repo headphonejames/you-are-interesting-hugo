@@ -8,6 +8,7 @@ twitter: fab twitter
 headphones: fas headphones
 # This rocket will be displayed in the about section (see about.md):
 rocket: fas rocket
+guitar: fas guitar
 
 # Overriding the default icons is just as easy! 
 # This will switch the gallery modals close button to a circled close icon, comment it out to see the difference:
