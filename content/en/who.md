@@ -6,6 +6,7 @@ description: "Who I am"
 
 ---
 {{< carousel items="1" height="600" unit="px" duration="4000" >}}
+<br>
 
 My name is {{< icon "headphones" >}} [James Kirsch](https://headphonejames.com/). I'm a professional open source developer at [G-Research Open Source Software](https://gresearchoss.io/).
 
