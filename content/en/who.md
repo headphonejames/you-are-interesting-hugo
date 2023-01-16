@@ -3,7 +3,6 @@ title: "Who I am"
 date: "2022-09-28T08:01:09-07:00"
 draft: false
 description: "Who I am"
-
 ---
 {{< carousel items="1" height="600" unit="px" duration="4000" >}}
 <br>

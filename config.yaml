@@ -146,14 +146,14 @@ Menu:
       identifier: how
       url: "/#how"
       weight: 2
+    - name: "What Happened"
+      identifier: blog
+      url: "/#blog"
+      weight: 3
     - name: "Who"
       identifier: who
       url: "/#who"
-      weight: 3
-#    - name: "Then What"
-#      identifier: results
-#      url: "/#impact"
-#      weight: 4
+      weight: 4
     - name: "Contact"
       identifier: contact
       url: "/#contact"

@@ -1,5 +1,5 @@
 ---
-title: "How this project came to be"
+title: "How this project came to be."
 date: "2022-09-28T08:01:09-07:00"
 draft: false
 description: "The story of this idea"
